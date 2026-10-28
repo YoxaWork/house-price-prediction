@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prediksi Harga Rumah
 
 Prediksi harga rumah (`SalePrice`) pada dataset House Prices (Ames, Iowa) menggunakan tiga model regresi:
@@ -46,3 +47,6 @@ Aplikasi juga bisa di-deploy gratis lewat [Streamlit Community Cloud](https://sh
 3. Chicco, D., Warrens, M. J., & Jurman, G. (2021). The coefficient of determination R-squared is more informative than SMAPE, MAE, MAPE, MSE and RMSE in regression analysis evaluation. *PeerJ Computer Science*. https://www.peerj.com/articles/cs-623
 4. Willmott, C. J., & Matsuura, K. (2005). Advantages of the mean absolute error (MAE) over the root mean square error (RMSE) in assessing average model performance. *Climate Research*, 30(1), 79-82. https://int-res.com/abstracts/cr/v30/n1/p79-82
 5. Chai, T., & Draxler, R. R. (2014). Root mean square error (RMSE) or mean absolute error (MAE)? Arguments against avoiding RMSE in the literature. *Geoscientific Model Development*, 7, 1247-1250. https://doi.org/10.5194/gmd-7-1247-2014
+=======
+
+>>>>>>> b4f29fd8257ed148731c14599e2e01cd2bafadbc
